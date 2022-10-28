@@ -1,0 +1,3 @@
+rootProject.name = 'monorepo'
+includeBuild 'project1'
+includeBuild 'project2'
