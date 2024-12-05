@@ -5,7 +5,7 @@ plugins {
 
 sonar {
   properties {
-    property "sonar.projectKey", "jacek-poreda-sonarsource_monorepo_test"
+    property "sonar.projectKey", "jacek-poreda-sonarsource_monorepo_test_2"
     property "sonar.organization", "jacek-poreda-sonarsource"
     property "sonar.host.url", "https://dev6.sc-dev6.io"
   }
