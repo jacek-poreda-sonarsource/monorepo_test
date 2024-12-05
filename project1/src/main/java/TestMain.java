@@ -13,7 +13,7 @@ import java.util.Set;
 public class TestMain {
 
   public static void main(String[] args) throws IOException {
-//    System.out.println("Hel98lo world!");
+   System.out.println("Hel98lo world!");
     setPermissions("aa");
     AccessController.doPrivileged(new PrivilegedAction() {
       public Object run() {
